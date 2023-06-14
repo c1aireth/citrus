@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.box1 {
+	background-color: orange;
+	padding: 5px;
+	border: solid 3px brown; 
+	margin: 10px
+}
+
+.box2 {
+	background-color: cadetblue;
+	padding: 5px;
+	border: solid 3px green; 
+	margin: 10px
+}
+
+.box3 {
+	background-color: lightcoral;
+	padding: 5px;
+	border: solid 3px #FF6100; 
+	margin: 10px
+}
